@@ -28,5 +28,5 @@ This repository contains 3D models and assembly files created using **Siemens NX
 
 ## V6 Engine Assembly Preview
 
-https://github.com/Anish1606/SiemensNX/blob/main/Car%20Engine%20V6/V6%20Crank%20Assembly.mp4
+https://github.com/Anish1606/SiemensNX/V6%20Crank%20Assembly.mp4
 

@@ -25,3 +25,8 @@ This repository contains 3D models and assembly files created using **Siemens NX
 ## Notes
 - These files are intended for design and review purposes.
 - For manufacturing, please ensure you use the correct version of Siemens NX and verify all dimensions and tolerances.
+
+## V6 Engine Assembly Preview
+
+https://github.com/Anish1606/SiemensNX/blob/main/Car%20Engine%20V6/V6%20Crank%20Assembly.mp4
+
